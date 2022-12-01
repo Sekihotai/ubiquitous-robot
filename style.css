@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#graphic {
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+}
+
+body {
+    background-color: pink;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#text {
+    width: 100%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#card {
+    
+}
+
+#status {
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+}
+button {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#image {
+    width: 600px
+}
